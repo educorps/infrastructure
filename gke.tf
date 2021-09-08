@@ -14,6 +14,7 @@ variable "gke_num_nodes" {
 }
 
 resource "google_container_cluster" "primary" {
+  project = var.project
   name     = "${var.project}-gke"
   location = var.region
 
