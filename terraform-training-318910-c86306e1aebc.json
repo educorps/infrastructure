@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "terraform-training-318910",
+  "private_key_id": "c86306e1aebc5df514ed7f4a9049b70a6fe160ae",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEugIBADANBgkqhkiG9w0BAQEFAASCBKQwggSgAgEAAoIBAQDNuqKQ9XCFgIv4\noLpGR4/TyA0/n3t4sFjVzc2qkfNfVMGjy4EVaheOLQm4UIByav+gn9n8zB8awVUM\n9XGJv5apIRGeg+BqxrA6ds8jVrh5DwjOMwZp7NRaEcgfks0XjEbfUzuoAJWmkLxc\nN6z5qCfvwqFqGe3J9eWDAERQJ/gUE+NtIYZu43OU6YNmdg6D/2o6A1l9ADuIOPoM\nezuDqtMamrVjrQu2b9Nq9K4jYT6GdrQXMoWTN63zfKakYsEmvbdohVWlwyicF8u/\nr1UpzS7NE4Nnqu6L4PgLpEIdV7mDSywagRV0oOYra+4noptGLjqzTsT7oQmMCkwV\nG4Rsp5ALAgMBAAECggEAAlgq9mxC73/drc7Qa0ZGfnssTM95neWjOtsrtFK8dhd7\nq20BbWfg7oGsjNlSABEgaklYDRhFuc1+isrDPqFxyz9GuZ/hb1C7UmHnOLe0xiBk\nkSD7ZOVKLYqVVWgcBorWhetSEIyNKAbvNpJ7L08kwV0zmgdt8nFnFP1Bn1435qv8\nGtc9GMPTBiwWr5UCNt9JggWb3W3fm0rf1+KdlPvOy/BtkV4uMXhoGDXDj/jQsE6B\nwtndHQQ/OxQVUzr6sBU8vwxvlxuz85RIpcq73hxT0XePRwaEkyovi9I8s9EEdIo7\npdlAhV0n4lOTZACDYWcGQPwuKqCGh4zHL+KFFCOR5QKBgQD2pNvbOlAhHmI9ti2C\nsJXjV03Cvv2tUWwGS2eLNlLQ2pzlfOr7ZDH1EfwV8mudnSN2BC0cUt6bLJotng+v\nVlOw4Pm8s3T/6FisjiHZoVeG9H2X01PvBkisxNkiPgxlIKTWdsBosA8eXxBYdKcG\nme0obb/KmCBjX+JOs1ahzIqflQKBgQDViHRO8GOiN8LLFgXGFQ3fydFV8ZLpOPph\nlWLwe3xN+hn5j+RvZCVzpUnMGUreZhZgLCw29fSNx9zK9L0ET2IHWHb7pvbmnsGd\nbNZTbINkKQJw1bWveiL9omPh3iIo8mG2yjxKv/7e/8nivbLzmEqO+8TbYDzIMjiI\njVh2/roJHwKBgAS0TEU4LYMUM0d+DAwsFg/KAH+waOI/ZVIRah4roRS+trNh2JGG\n7bUA7M/2Wbsd3ilIFxwtMHXBOgeYti/f86SyBdFlktu2sMpJw7eE7khyrVqR+03Z\nztUMxB91E4NyRfKZPT5B7Wfk5EjroKvtj6pvvXK9yBBdKdHaddKMNjCpAn9eQN0V\n+wX/lJ1nB1GFHcYCAhNk3Dz8tSnP6SDDBb7YrIzKm7k5cfsWEN+CN6fUgztdOCJM\nIETSUGYlL+I/BMtAcswSSKCzK2BLHL9+E2frzi5FoA+SZVcMnaF5EZQCfvqitKHo\nXNcjl8SFUTasT4yZkIhUTSaHN6O8oqdp3wY/AoGAEvCNHgJFtJsFpArTu7Z+JpzS\nCdIiz2Gy1BmfrVcSd8SZMNLDJPq5vl08vJXXvU80+kSt/FLs9U5tPklhLXBUh5OD\nmVNXA0FQqSo35bJ8EeTJitJ0CDBugbgkoVFvz3ZvW7adBPBzdgSTtkS+3XSYoX4H\nWiBD6L652igzF1e5DjU=\n-----END PRIVATE KEY-----\n",
+  "client_email": "padawan-infra-test@terraform-training-318910.iam.gserviceaccount.com",
+  "client_id": "104251783790853948259",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/padawan-infra-test%40terraform-training-318910.iam.gserviceaccount.com"
+}
